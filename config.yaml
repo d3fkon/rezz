@@ -1,0 +1,13 @@
+---
+  metaData: 
+    author: "d3fkon"
+    git-repo: "https://github.com/d3fkon/rezz"
+    approval: 
+      approved-by: "d3fkon"
+      approval-date: 1564069857593
+  job: 
+    job-name: "d3fkonxrezz"
+    config: 
+      pre-unit-test: "yes"
+      post-unit-test: "no"
+      dev: "no"
